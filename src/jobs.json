@@ -127,18 +127,18 @@
       }
     },
     {
-      "id": "f365",
-      "title": "Chelsea Barker",
+      "title": "Barbara Gould",
       "type": "Part-Time",
-      "description": "Delectus velit omni",
-      "salary": "$150K - $175K",
-      "location": "Qui ipsam quia corru",
+      "description": "Magnam do est ullam",
+      "salary": "$175K - $200K",
+      "location": "Do molestiae quia ap",
       "company": {
-        "name": "Contreras Munoz Trading",
-        "description": "Tempor eos eos ten",
-        "contactEmail": "demuluxece@mailinator.com",
-        "contactPhone": "+1 (273) 983-1304"
-      }
+        "name": "Perez and Frost Associates",
+        "description": "Mollit aliquam dolor",
+        "contactEmail": "lalehu@mailinator.com",
+        "contactPhone": "+1 (537) 996-9811"
+      },
+      "id": "f365"
     }
   ]
 }
