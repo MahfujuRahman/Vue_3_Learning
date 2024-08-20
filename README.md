@@ -14,12 +14,19 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+npm install server
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run server
 ```
 
 ### Compile and Minify for Production

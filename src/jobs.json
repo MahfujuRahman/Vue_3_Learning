@@ -125,20 +125,6 @@
         "contactEmail": "ciletit@mailinator.com",
         "contactPhone": "+1 (901) 125-2517"
       }
-    },
-    {
-      "title": "Barbara Gould",
-      "type": "Part-Time",
-      "description": "Magnam do est ullam",
-      "salary": "$175K - $200K",
-      "location": "Do molestiae quia ap",
-      "company": {
-        "name": "Perez and Frost Associates",
-        "description": "Mollit aliquam dolor",
-        "contactEmail": "lalehu@mailinator.com",
-        "contactPhone": "+1 (537) 996-9811"
-      },
-      "id": "f365"
     }
   ]
 }
