@@ -167,6 +167,20 @@
         "contactEmail": "qedo@mailinator.com",
         "contactPhone": "+1 (181) 405-1054"
       }
+    },
+    {
+      "id": "6b4e",
+      "title": "Fiona Shannon",
+      "type": "Part-Time",
+      "description": "Tempora in vitae aut",
+      "salary": "Under $50K",
+      "location": "Quibusdam voluptate ",
+      "company": {
+        "name": "Moreno Waller Inc",
+        "description": "Sint pariatur Iste ",
+        "contactEmail": "buhakylir@mailinator.com",
+        "contactPhone": "+1 (976) 744-4783"
+      }
     }
   ]
 }
