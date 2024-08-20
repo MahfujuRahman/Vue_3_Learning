@@ -85,20 +85,6 @@
       }
     },
     {
-      "id": "d828",
-      "title": "Troy Walton",
-      "type": "Full-Time",
-      "description": "Omnis rem totam in o",
-      "salary": "Over $200K",
-      "location": "Mollitia lorem labor",
-      "company": {
-        "name": "Schroeder and Giles Inc",
-        "description": "Modi est dolores au",
-        "contactEmail": "mehuwomi@mailinator.com",
-        "contactPhone": "+1 (431) 544-4832"
-      }
-    },
-    {
       "id": "e832",
       "title": "Stephen Holder",
       "type": "Internship",
@@ -152,34 +138,6 @@
         "description": "Tempor eos eos ten",
         "contactEmail": "demuluxece@mailinator.com",
         "contactPhone": "+1 (273) 983-1304"
-      }
-    },
-    {
-      "id": "4e38",
-      "title": "Clayton Bentley",
-      "type": "Internship",
-      "description": "Quis accusamus amet",
-      "salary": "$70K - $80K",
-      "location": "Voluptatum quia elig",
-      "company": {
-        "name": "Pitts Griffin Inc",
-        "description": "Voluptatibus nihil a",
-        "contactEmail": "qedo@mailinator.com",
-        "contactPhone": "+1 (181) 405-1054"
-      }
-    },
-    {
-      "id": "6b4e",
-      "title": "Fiona Shannon",
-      "type": "Part-Time",
-      "description": "Tempora in vitae aut",
-      "salary": "Under $50K",
-      "location": "Quibusdam voluptate ",
-      "company": {
-        "name": "Moreno Waller Inc",
-        "description": "Sint pariatur Iste ",
-        "contactEmail": "buhakylir@mailinator.com",
-        "contactPhone": "+1 (976) 744-4783"
       }
     }
   ]
